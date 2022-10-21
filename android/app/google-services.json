@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "743586394175",
+    "project_id": "mad-firebase-cea50",
+    "storage_bucket": "mad-firebase-cea50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743586394175:android:5f24713c327ff8997ac88a",
+        "android_client_info": {
+          "package_name": "com.example.recipe_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743586394175-1nuinge504gm4glined2ilejr89q6997.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8kiXh_bRFXO7jcT-EsHngvqEUinvz-6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743586394175-1nuinge504gm4glined2ilejr89q6997.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

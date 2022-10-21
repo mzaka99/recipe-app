@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Mad Test</string>
+<string name="facebook_app_id">1130225324282313</string>
+<string name="fb_login_protocol_scheme">fb1130225324282313</string>
+<string name="facebook_client_token">3a6f382ecb03b51760c243b98ea49aaf</string>
+</resources>
